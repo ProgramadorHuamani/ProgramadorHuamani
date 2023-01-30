@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <h1 align="center"> Hi 👋, Welcome to my repository!</h1>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Seven_segment_display-animated.gif"> 
-    <img scr="https://giphy.com/clips/southpark-south-park-episode-7-season-18-68PxAaRvtTV7qmucsJ" width="200" />
+    <center><img src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="350"></center>
     <h3 align="left">
    <p> - :grin: I introduce myself, my name is Jose Diego </p>
         <p> - :computer: Software Engineering student from Lima, Peru :peru: </p>
