@@ -9,8 +9,6 @@ Here, you can explore all my projects focused on Data Analytics, Web Development
 <br> 🔹 During my breaks, I either catch up on tech news about the latest trends or play basketball. 🏀
 <br> 🔹 I'm passionate about Data Engineering and everything related to data!
 
-<br>
-
 ### 🔥 Survival Kit: Tools of the Code Arena  
 *"May your code always compile and your bugs be ever in your favor"* 
 
