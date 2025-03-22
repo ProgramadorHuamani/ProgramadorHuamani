@@ -4,7 +4,7 @@
 
 Here, you can explore all my projects focused on Data Analytics, Web Development, and some curiosities about my early <q>mini-projects</q> 😅 —small things I develop to practice different technologies and frameworks.
 
-A few things about me:
+**A few things about me:**
 <br> 🔹 I love listening to electronic music while coding. This genre became one of my favorites in 2010 when little JD was just discovering music. 🎵
 <br> 🔹 During my breaks, I either catch up on tech news about the latest trends or play basketball. 🏀
 <br> 🔹 I'm passionate about Data Engineering and everything related to data!
